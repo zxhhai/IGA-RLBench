@@ -44,6 +44,6 @@ Evaluate IGA on 17 different tasks.
 ## Acknowledgements
 We would like to express our sincere gratitude to the authors of the following open-source projects, whose pioneering work laid the foundation for this study:
 
-1. IGA[https://github.com/vv19/iga]: For the original method design and implementation of Implicit Graph Alignment.
+1. [IGA](https://github.com/vv19/iga): For the original method design and implementation of Implicit Graph Alignment.
 
-2. Instant Policy[https://github.com/vv19/instant_policy]: For providing the simulation framework.
+2. [Instant Policy](https://github.com/vv19/instant_policy): For providing the simulation framework.
