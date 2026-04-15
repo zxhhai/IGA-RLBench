@@ -2,3 +2,5 @@ others/
 __pycache__/
 .vscode/
 .conda/
+*.pt
+*.pth
