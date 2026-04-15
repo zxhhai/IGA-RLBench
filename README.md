@@ -1,5 +1,5 @@
 # IGA-RLBench
-
+This project investigates the deployment and performance of Implicit Graph Alignment (IGA) on RLBench tasks, building upon prior work from [IGA](https://github.com/vv19/iga) and [Instant Policy](https://github.com/vv19/instant_policy). For research and study purposes only.
 
 ## Setup
 
